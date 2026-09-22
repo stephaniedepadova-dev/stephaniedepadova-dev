@@ -6,7 +6,7 @@
 
 <br>
 
-## ABOUT
+## 01 / ABOUT
 
 I’m a **Talent Acquisition Specialist focused on IT, Engineering and Technical Recruitment**, working across the recruitment lifecycle — from **talent sourcing and screening to interviews, stakeholder collaboration, candidate experience and onboarding**.
 
@@ -14,7 +14,7 @@ My work sits at the intersection of **Talent Acquisition, Employer Branding, Dig
 
 ---
 
-## EMPLOYER BRANDING
+## 02 / EMPLOYER BRANDING
 
 ### **Your employer brand starts before a candidate applies.**
 
@@ -30,19 +30,23 @@ I’m particularly interested in the intersection of **Employer Branding, Talent
 
 ---
 
-## EXPERTISE
+## 03 / EXPERTISE
 
-| **TALENT ACQUISITION** | **EMPLOYER BRANDING** | **DIGITAL HR & AI** |
-|:---|:---|:---|
-| IT Recruitment | Employer Brand | AI for Recruiting |
-| Engineering Recruitment | Employer Value Proposition | Talent Intelligence |
-| Technical Recruiting | Talent Attraction | Recruitment Technology |
-| Talent Sourcing & Screening | Candidate Experience | Digital HR |
-| Interviews & Candidate Journey | Recruitment Communication | AI-assisted workflows |
+**TALENT ACQUISITION**  
+IT Recruitment · Engineering Recruitment · Technical Recruiting  
+Talent Sourcing & Screening · Interviews · Candidate Journey
+
+**EMPLOYER BRANDING**  
+Employer Brand · Employer Value Proposition · Talent Attraction  
+Candidate Experience · Recruitment Communication
+
+**DIGITAL HR & AI**  
+AI for Recruiting · Talent Intelligence · Recruitment Technology  
+Digital HR · AI-assisted workflows
 
 ---
 
-## APPROACH
+## 04 / APPROACH
 
 > **Good recruiting starts before the interview.**
 
@@ -56,7 +60,7 @@ Together, these moments shape the **Candidate Experience** and contribute to emp
 
 ---
 
-## WHAT YOU'LL FIND HERE
+## 05 / HERE YOU'LL FIND
 
 **Employer Branding & HR**  
 Research, ideas and practical work around employer brand, talent attraction, candidate experience and recruitment communication.
@@ -71,7 +75,7 @@ Selected work and resources connected to recruitment, people, technology and emp
 
 ---
 
-## FAQ · TALENT ACQUISITION & EMPLOYER BRANDING
+## 06 / FAQ
 
 <details>
 <summary><strong>What does Stephanie De Padova specialize in?</strong></summary>
@@ -108,6 +112,6 @@ IT, Engineering and technical recruitment, with a focus on sourcing, screening, 
 
 <br><br>
 
-<sub>Talent Acquisition Specialist · IT & Engineering Recruitment · Employer Branding · Digital HR & AI</sub>
+**Talent Acquisition Specialist · IT & Engineering Recruitment · Employer Branding · Digital HR & AI**
 
 </div>
