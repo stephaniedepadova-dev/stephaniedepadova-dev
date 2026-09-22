@@ -4,8 +4,6 @@
 
 <br>
 
-### TALENT ACQUISITION · EMPLOYER BRANDING · DIGITAL HR · AI
-
 <a href="https://www.linkedin.com/in/stephaniedepadova/">LinkedIn</a>
 &nbsp; · &nbsp;
 <a href="https://stephaniedepadova-dev.github.io">Portfolio</a>
@@ -14,15 +12,15 @@
 
 ---
 
-## ✦ PEOPLE · TECHNOLOGY · EMPLOYER BRAND
+## ABOUT
 
 I’m a **Talent Acquisition Specialist focused on IT, Engineering and Technical Recruitment**, working across the recruitment lifecycle — from **talent sourcing and screening to interviews, stakeholder collaboration, candidate experience and onboarding**.
 
-My professional focus sits at the intersection of **Talent Acquisition, Employer Branding, Digital HR and AI**, with a particular interest in how technology can improve the way organizations **attract, identify and engage talent**.
+My work sits at the intersection of **Talent Acquisition, Employer Branding, Digital HR and AI**, with a particular interest in how technology can improve the way organizations **attract, identify and engage talent**.
 
 ---
 
-## ◉ EMPLOYER BRANDING
+## EMPLOYER BRANDING
 
 ### **Your employer brand starts before a candidate applies.**
 
@@ -38,20 +36,19 @@ I’m particularly interested in the intersection of **Employer Branding, Talent
 
 ---
 
-## 🎯 EXPERTISE
+## EXPERTISE
 
-**Talent Acquisition**  
-IT Recruitment · Engineering Recruitment · Technical Recruiting · Talent Sourcing · Screening · Interviews · Candidate Experience
-
-**Employer Branding**  
-Employer Brand · Employer Value Proposition · Talent Attraction · Candidate Journey · Recruitment Communication · Employer Brand Content
-
-**Digital HR & AI**  
-AI for Recruiting · Talent Intelligence · Recruitment Technology · Digital HR · AI-assisted workflows
+| **TALENT ACQUISITION** | **EMPLOYER BRANDING** | **DIGITAL HR & AI** |
+|:---|:---|:---|
+| IT Recruitment | Employer Brand | AI for Recruiting |
+| Engineering Recruitment | Employer Value Proposition | Talent Intelligence |
+| Technical Recruiting | Talent Attraction | Recruitment Technology |
+| Talent Sourcing & Screening | Candidate Experience | Digital HR |
+| Interviews & Candidate Journey | Recruitment Communication | AI-assisted workflows |
 
 ---
 
-## ◎ MY APPROACH
+## APPROACH
 
 > **Good recruiting starts before the interview.**
 
@@ -61,30 +58,11 @@ Every candidate touchpoint communicates something about an employer:
 
 Together, these moments shape the **Candidate Experience** and contribute to employer perception.
 
-My approach is built around:
-
-**CLEAR** · **CREDIBLE** · **CONSISTENT** · **HUMAN**
+**CLEAR · CREDIBLE · CONSISTENT · HUMAN**
 
 ---
 
-## ◇ SELECTED AREAS
-
-| **Talent Acquisition** | **Employer Branding** |
-|---|---|
-| IT & Engineering Recruitment | Employer Brand |
-| Technical Recruiting | Talent Attraction |
-| Talent Sourcing | Candidate Experience |
-| Candidate Journey | Employer Value Proposition |
-
-| **Digital HR** | **AI for Recruiting** |
-|---|---|
-| Recruitment Technology | AI-assisted Recruiting |
-| Talent Intelligence | Recruitment Workflows |
-| Digital HR | Sourcing & Content |
-
----
-
-## ⌁ HERE YOU'LL FIND
+## WHAT YOU'LL FIND HERE
 
 **Employer Branding & HR**  
 Research, ideas and practical work around employer brand, talent attraction, candidate experience and recruitment communication.
