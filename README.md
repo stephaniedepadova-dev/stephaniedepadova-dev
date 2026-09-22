@@ -137,7 +137,6 @@ IT, Engineering and technical recruitment, with a focus on sourcing, screening, 
 
 <br>
 
-*Talent Acquisition Specialist · IT & Engineering Recruitment*  
-*Employer Branding · Digital HR · AI*
+Let’s connect and talk about **Talent Acquisition, Employer Branding, Digital HR and AI**.
 
 </div>
