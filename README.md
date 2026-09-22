@@ -2,15 +2,9 @@
 
 <img src="./profile-header.svg" alt="Stephanie De Padova — Talent Acquisition Specialist, IT and Engineering Recruitment, Employer Branding, Digital HR and AI" width="100%">
 
-<br>
-
-<a href="https://www.linkedin.com/in/stephaniedepadova/">LinkedIn</a>
-&nbsp; · &nbsp;
-<a href="https://stephaniedepadova-dev.github.io">Portfolio</a>
-
 </div>
 
----
+<br>
 
 ## ABOUT
 
