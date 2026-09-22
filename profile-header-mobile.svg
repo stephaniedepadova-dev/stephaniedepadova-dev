@@ -1,13 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="700" height="520" viewBox="0 0 700 520" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="500" viewBox="0 0 390 500" role="img" aria-labelledby="title desc">
 <title id="title">Stephanie De Padova — Talent Acquisition Specialist</title>
 <desc id="desc">Talent Acquisition, IT and Engineering Recruitment, Employer Branding, Digital HR and AI.</desc>
-<rect x="1" y="1" width="698" height="518" rx="18" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="2"/>
-<rect x="0" y="48" width="7" height="424" rx="3.5" fill="#2563EB"/>
-<line x1="52" y1="58" x2="150" y2="58" stroke="#2563EB" stroke-width="6" stroke-linecap="round"/>
-<text x="52" y="155" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700">Stephanie De Padova</text>
-<text x="52" y="220" fill="#4B5563" font-family="Arial, Helvetica, sans-serif" font-size="38">Talent Acquisition Specialist</text>
-<text x="52" y="288" fill="#2563EB" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700">IT &amp; ENGINEERING RECRUITMENT</text>
-<text x="52" y="330" fill="#6B7280" font-family="Arial, Helvetica, sans-serif" font-size="24">EMPLOYER BRANDING · DIGITAL HR · AI</text>
-<line x1="52" y1="370" x2="648" y2="370" stroke="#E5E7EB" stroke-width="1"/>
-<text x="52" y="430" fill="#9CA3AF" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="1.2">TALENT · TECHNOLOGY · RECRUITMENT</text>
+<rect x="1" y="1" width="388" height="498" rx="18" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="2"/>
+<rect x="0" y="46" width="7" height="410" rx="3.5" fill="#2563EB"/>
+<line x1="42" y1="54" x2="118" y2="54" stroke="#2563EB" stroke-width="5" stroke-linecap="round"/>
+<text x="42" y="128" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="700">Stephanie De</text>
+<text x="42" y="178" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="700">Padova</text>
+<text x="42" y="225" fill="#4B5563" font-family="Arial, Helvetica, sans-serif" font-size="25">Talent Acquisition</text>
+<text x="42" y="258" fill="#4B5563" font-family="Arial, Helvetica, sans-serif" font-size="25">Specialist</text>
+<text x="42" y="309" fill="#2563EB" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">IT &amp; ENGINEERING RECRUITMENT</text>
+<text x="42" y="340" fill="#6B7280" font-family="Arial, Helvetica, sans-serif" font-size="17">EMPLOYER BRANDING · DIGITAL HR · AI</text>
+<line x1="42" y1="372" x2="348" y2="372" stroke="#E5E7EB" stroke-width="1"/>
+<text x="42" y="415" fill="#9CA3AF" font-family="Arial, Helvetica, sans-serif" font-size="12.5" letter-spacing="1">TALENT · TECHNOLOGY · RECRUITMENT</text>
 </svg>
