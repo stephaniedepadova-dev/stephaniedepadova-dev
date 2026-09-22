@@ -123,16 +123,21 @@ IT, Engineering and technical recruitment, with a focus on sourcing, screening, 
 
 <div align="center">
 
-### LET'S CONNECT
+## LET'S CONNECT
 
 **Talent Acquisition · Employer Branding · Digital HR · AI**
 
-<a href="https://www.linkedin.com/in/stephaniedepadova/">LinkedIn</a>
-&nbsp; · &nbsp;
-<a href="https://stephaniedepadova-dev.github.io">Portfolio</a>
+<a href="https://www.linkedin.com/in/stephaniedepadova/">
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+&nbsp;
+<a href="https://stephaniedepadova-dev.github.io">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+</a>
 
-<br>
+<br><br>
 
-**Talent Acquisition Specialist · IT & Engineering Recruitment · Employer Branding · Digital HR & AI**
+*Talent Acquisition Specialist · IT & Engineering Recruitment*  
+*Employer Branding · Digital HR · AI*
 
 </div>
