@@ -6,7 +6,7 @@
 
 <br>
 
-## <span style="color:#9CA3AF;">01</span>&nbsp;&nbsp; | &nbsp;&nbsp;<span style="color:#2563EB;">ABOUT</span>
+<h2><font color="#9CA3AF">01</font>&nbsp;&nbsp; <font color="#9CA3AF">│</font> &nbsp;&nbsp;<font color="#2563EB">ABOUT</font></h2>
 
 I’m a **Talent Acquisition Specialist focused on IT, Engineering and Technical Recruitment**, working across the recruitment lifecycle — from **talent sourcing and screening to interviews, stakeholder collaboration, candidate experience and onboarding**.
 
@@ -14,7 +14,7 @@ My work sits at the intersection of **Talent Acquisition, Employer Branding, Dig
 
 ---
 
-## <span style="color:#9CA3AF;">02</span>&nbsp;&nbsp; | &nbsp;&nbsp;<span style="color:#2563EB;">EMPLOYER BRANDING</span>
+<h2><font color="#9CA3AF">02</font>&nbsp;&nbsp; <font color="#9CA3AF">│</font> &nbsp;&nbsp;<font color="#2563EB">EMPLOYER BRANDING</font></h2>
 
 ### **Your employer brand starts before a candidate applies.**
 
@@ -30,7 +30,7 @@ I’m particularly interested in the intersection of **Employer Branding, Talent
 
 ---
 
-## <span style="color:#9CA3AF;">03</span>&nbsp;&nbsp; | &nbsp;&nbsp;<span style="color:#2563EB;">EXPERTISE</span>
+<h2><font color="#9CA3AF">03</font>&nbsp;&nbsp; <font color="#9CA3AF">│</font> &nbsp;&nbsp;<font color="#2563EB">EXPERTISE</font></h2>
 
 **TALENT ACQUISITION**  
 IT Recruitment · Engineering Recruitment · Technical Recruiting  
@@ -46,7 +46,7 @@ Digital HR · AI-assisted workflows
 
 ---
 
-## <span style="color:#9CA3AF;">04</span>&nbsp;&nbsp; | &nbsp;&nbsp;<span style="color:#2563EB;">APPROACH</span>
+<h2><font color="#9CA3AF">04</font>&nbsp;&nbsp; <font color="#9CA3AF">│</font> &nbsp;&nbsp;<font color="#2563EB">APPROACH</font></h2>
 
 > **Good recruiting starts before the interview.**
 
@@ -60,7 +60,7 @@ Together, these moments shape the **Candidate Experience** and contribute to emp
 
 ---
 
-## <span style="color:#9CA3AF;">05</span>&nbsp;&nbsp; | &nbsp;&nbsp;<span style="color:#2563EB;">HERE YOU'LL FIND</span>
+<h2><font color="#9CA3AF">05</font>&nbsp;&nbsp; <font color="#9CA3AF">│</font> &nbsp;&nbsp;<font color="#2563EB">HERE YOU'LL FIND</font></h2>
 
 **Employer Branding & HR**  
 Research, ideas and practical work around employer brand, talent attraction, candidate experience and recruitment communication.
@@ -75,7 +75,7 @@ Selected work and resources connected to recruitment, people, technology and emp
 
 ---
 
-## <span style="color:#9CA3AF;">06</span>&nbsp;&nbsp; | &nbsp;&nbsp;<span style="color:#2563EB;">FAQ</span>
+<h2><font color="#9CA3AF">06</font>&nbsp;&nbsp; <font color="#9CA3AF">│</font> &nbsp;&nbsp;<font color="#2563EB">FAQ</font></h2>
 
 <details>
 <summary><strong>What does Stephanie De Padova specialize in?</strong></summary>
