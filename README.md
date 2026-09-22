@@ -89,7 +89,7 @@ Learning, projects and experimentation around AI and technology in Talent Acquis
 **Professional work**  
 Selected work and resources connected to recruitment, people, technology and employer branding.
 
-→ **[Explore my portfolio](https://stephaniedepadova-dev.github.io)**
+→ <a href="https://stephaniedepadova-dev.github.io/" title="Explore Stephanie De Padova’s portfolio"><strong>Explore my portfolio ↗</strong></a>
 
 ---
 
