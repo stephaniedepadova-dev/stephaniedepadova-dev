@@ -135,10 +135,8 @@ IT, Engineering and technical recruitment, with a focus on sourcing, screening, 
 <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
 </a>
 
-<br>
+<br><br>
 
 Connecting talent, employer brand and technology to create better candidate experiences.
-
-<br>
 
 </div>
