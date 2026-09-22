@@ -137,6 +137,6 @@ IT, Engineering and technical recruitment, with a focus on sourcing, screening, 
 
 <br>
 
-Let’s connect and talk about **Talent Acquisition, Employer Branding, Digital HR and AI**.
+Connecting talent, employer brand and technology to create better candidate experiences.
 
 </div>
