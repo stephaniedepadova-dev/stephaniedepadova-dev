@@ -27,7 +27,7 @@ My background combines **Talent Acquisition, Digital Strategy, Employer Branding
 <tr>
 <td width="33%" valign="top">
 
-### Talent Acquisition
+### 🎯 Talent Acquisition
 
 - Engineering & IT Recruitment
 - Technical Recruiting
@@ -39,7 +39,7 @@ My background combines **Talent Acquisition, Digital Strategy, Employer Branding
 </td>
 <td width="33%" valign="top">
 
-### Employer Branding
+### ✦ Employer Branding
 
 - Employer Brand Strategy
 - Talent Attraction
@@ -51,7 +51,7 @@ My background combines **Talent Acquisition, Digital Strategy, Employer Branding
 </td>
 <td width="33%" valign="top">
 
-### Digital HR & AI
+### ◈ Digital HR & AI
 
 - AI for Recruiting
 - Talent Intelligence
@@ -68,11 +68,17 @@ My background combines **Talent Acquisition, Digital Strategy, Employer Branding
 
 ## Employer Branding
 
-I’m particularly interested in the relationship between **employer brand, candidate experience and recruitment communication**.
+### **Your employer brand starts before a candidate applies.**
 
-For me, Employer Branding is not only about communicating what a company offers. It is also about the consistency between **what an organization says, how candidates experience the selection process, and what they find when they research the company**.
+I’m particularly interested in the connection between **Employer Branding, Talent Acquisition and Candidate Experience**.
 
-That is where I see the connection between **Talent Acquisition, Employer Branding and AI** becoming increasingly important.
+Employer Branding is not just about careers pages, social content or communicating a company’s culture. It is built through the **whole candidate journey**: the way a role is presented, the clarity of the communication, the selection experience, the consistency of the employer promise and the perception candidates take away from the process.
+
+For me, strong Employer Branding sits at the intersection of:
+
+**what a company communicates** → **what candidates experience** → **what employees can actually confirm**
+
+That is why I’m interested in building recruitment experiences that are **credible, consistent and human**, while using **data, technology and AI** to make Talent Attraction more effective.
 
 ---
 
@@ -88,7 +94,7 @@ Recruitment is not only about filling a position. It is also about creating a pr
 
 ## Focus
 
-**Talent Acquisition** · **Technical Recruitment** · **Employer Branding** · **Talent Attraction** · **Digital HR** · **AI for Recruiting** · **Talent Intelligence** · **Recruitment Technology**
+**Talent Acquisition** · **Technical Recruitment** · **Employer Branding** · **Talent Attraction** · **Candidate Experience** · **Digital HR** · **AI for Recruiting** · **Talent Intelligence**
 
 ---
 
@@ -98,7 +104,7 @@ Recruitment is not only about filling a position. It is also about creating a pr
 Experience, certifications, skills and professional projects.
 
 🧠 **Employer Branding & HR**  
-Research and practical work around employer brand, talent attraction and candidate experience.
+Research and practical work around employer brand, talent attraction, candidate experience and recruitment communication.
 
 🤖 **Digital HR & AI**  
 Learning and experimentation around AI applications in Talent Acquisition and HR.
