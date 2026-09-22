@@ -127,12 +127,12 @@ IT, Engineering and technical recruitment, with a focus on sourcing, screening, 
 
 **Talent Acquisition · Employer Branding · Digital HR · AI**
 
-<br>
+<br><br>
 
 <a href="https://www.linkedin.com/in/stephaniedepadova/">
 <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://stephaniedepadova-dev.github.io">
 <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
 </a>
