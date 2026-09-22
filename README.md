@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./profile-header.svg" alt="Stephanie De Padova — Talent Acquisition Specialist, IT and Engineering Recruitment, Employer Branding, Digital HR and AI" width="100%">
+<picture>\n<source media="(max-width: 600px)" srcset="./profile-header-mobile.svg">\n<img src="./profile-header.svg" alt="Stephanie De Padova — Talent Acquisition Specialist, IT and Engineering Recruitment, Employer Branding, Digital HR and AI" width="100%">\n</picture>
 
 </div>
 
 <br>
 
-<img src="./section-about.svg" alt="01 | ABOUT" width="900">
+<img src="./section-about.svg" alt="01 | ABOUT" width="520">
 
 I’m a **Talent Acquisition Specialist focused on IT, Engineering and Technical Recruitment**, working across the recruitment lifecycle — from **talent sourcing and screening to interviews, stakeholder collaboration, candidate experience and onboarding**.
 
@@ -14,7 +14,7 @@ My work sits at the intersection of **Talent Acquisition, Employer Branding, Dig
 
 ---
 
-<img src="./section-employer-branding.svg" alt="02 | EMPLOYER BRANDING" width="900">
+<img src="./section-employer-branding.svg" alt="02 | EMPLOYER BRANDING" width="520">
 
 ### **Your employer brand starts before a candidate applies.**
 
@@ -30,7 +30,7 @@ I’m particularly interested in the intersection of **Employer Branding, Talent
 
 ---
 
-<img src="./section-expertise.svg" alt="03 | EXPERTISE" width="900">
+<img src="./section-expertise.svg" alt="03 | EXPERTISE" width="520">
 
 **TALENT ACQUISITION**  
 IT Recruitment · Engineering Recruitment · Technical Recruiting  
@@ -46,7 +46,7 @@ Digital HR · AI-assisted workflows
 
 ---
 
-<img src="./section-approach.svg" alt="04 | APPROACH" width="900">
+<img src="./section-approach.svg" alt="04 | APPROACH" width="520">
 
 > **Good recruiting starts before the interview.**
 
@@ -60,7 +60,7 @@ Together, these moments shape the **Candidate Experience** and contribute to emp
 
 ---
 
-<img src="./section-here-youll-find.svg" alt="05 | HERE YOU'LL FIND" width="900">
+<img src="./section-here-youll-find.svg" alt="05 | HERE YOU'LL FIND" width="520">
 
 **Employer Branding & HR**  
 Research, ideas and practical work around employer brand, talent attraction, candidate experience and recruitment communication.
@@ -75,7 +75,7 @@ Selected work and resources connected to recruitment, people, technology and emp
 
 ---
 
-<img src="./section-faq.svg" alt="06 | FAQ" width="900">
+<img src="./section-faq.svg" alt="06 | FAQ" width="520">
 
 <details>
 <summary><strong>What does Stephanie De Padova specialize in?</strong></summary>
