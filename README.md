@@ -6,7 +6,7 @@
 
 <br>
 
-## [01](#about) / ABOUT
+## ABOUT <span style="color:#2563EB;">01</span>
 
 I’m a **Talent Acquisition Specialist focused on IT, Engineering and Technical Recruitment**, working across the recruitment lifecycle — from **talent sourcing and screening to interviews, stakeholder collaboration, candidate experience and onboarding**.
 
@@ -14,7 +14,7 @@ My work sits at the intersection of **Talent Acquisition, Employer Branding, Dig
 
 ---
 
-## [02](#employer-branding) / EMPLOYER BRANDING
+## EMPLOYER BRANDING <span style="color:#2563EB;">02</span>
 
 ### **Your employer brand starts before a candidate applies.**
 
@@ -30,7 +30,7 @@ I’m particularly interested in the intersection of **Employer Branding, Talent
 
 ---
 
-## [03](#expertise) / EXPERTISE
+## EXPERTISE <span style="color:#2563EB;">03</span>
 
 **TALENT ACQUISITION**  
 IT Recruitment · Engineering Recruitment · Technical Recruiting  
@@ -46,7 +46,7 @@ Digital HR · AI-assisted workflows
 
 ---
 
-## [04](#approach) / APPROACH
+## APPROACH <span style="color:#2563EB;">04</span>
 
 > **Good recruiting starts before the interview.**
 
@@ -60,7 +60,7 @@ Together, these moments shape the **Candidate Experience** and contribute to emp
 
 ---
 
-## [05](#here-youll-find) / HERE YOU'LL FIND
+## HERE YOU'LL FIND <span style="color:#2563EB;">05</span>
 
 **Employer Branding & HR**  
 Research, ideas and practical work around employer brand, talent attraction, candidate experience and recruitment communication.
@@ -75,7 +75,7 @@ Selected work and resources connected to recruitment, people, technology and emp
 
 ---
 
-## [06](#faq) / FAQ
+## FAQ <span style="color:#2563EB;">06</span>
 
 <details>
 <summary><strong>What does Stephanie De Padova specialize in?</strong></summary>
