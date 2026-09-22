@@ -1,14 +1,10 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile-header-light.svg">
-  <img src="./profile-header-light.svg" alt="Stephanie De Padova — Talent Acquisition Specialist, IT and Engineering Recruitment, Employer Branding, Digital HR and AI" width="100%">
-</picture>
+<img src="./profile-header.svg" alt="Stephanie De Padova — Talent Acquisition Specialist, IT and Engineering Recruitment, Employer Branding, Digital HR and AI" width="100%">
 
 <br>
 
-### TALENT ACQUISITION  ·  EMPLOYER BRANDING  ·  DIGITAL HR  ·  AI
+### TALENT ACQUISITION · EMPLOYER BRANDING · DIGITAL HR · AI
 
 <a href="https://www.linkedin.com/in/stephaniedepadova/">LinkedIn</a>
 &nbsp; · &nbsp;
