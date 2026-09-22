@@ -110,7 +110,7 @@ IT, Engineering and technical recruitment, with a focus on sourcing, screening, 
 &nbsp; · &nbsp;
 <a href="https://stephaniedepadova-dev.github.io">Portfolio</a>
 
-<br><br>
+<br>
 
 **Talent Acquisition Specialist · IT & Engineering Recruitment · Employer Branding · Digital HR & AI**
 
